@@ -2,5 +2,3 @@
 <h2> By Mr.Hari from Saidemy </h2>
 <h2> It's time to start the DevOps Project-2!! Get ready!!! </h2>
 <h2> We are done with ansible deployment </h2>
-<h2> Successfully completed project 2 </h2>
-<h2> Thanks you Saidemy </h2>
